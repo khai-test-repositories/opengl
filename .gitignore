@@ -8,5 +8,7 @@ quick-test
 /gl
 
 *.exe
+*.out
+*.obj
 *.o
 *.log
