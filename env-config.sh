@@ -1,5 +1,5 @@
 
-echo -o ./main.exe ./main.cpp \
+echo -o ./.out/main.exe ./main.cpp \
     -D FREEGLUT_STATIC \
     -I./freeglut/include \
     -L./freeglut/lib/x64 \
